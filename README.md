@@ -1,4 +1,4 @@
-Aplicación next.js que utiliza la librería transbank-sdk.
+Aplicación dei ejemplo de Webpay Plus usando Next.js jun con la librería transbank-sdk.
 ## Inicializar aplicación
     npm install -y
 ## Ejecuta aplicación
